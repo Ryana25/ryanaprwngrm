@@ -1,0 +1,8 @@
+print("Halo Ryana")
+print("Halo Ryana")
+print("Halo Snowhite")
+print("Halo Snowhite")
+print("Halo Princess")
+print("Halo Princess")
+print("Halo Cantik")
+print("Halo Cantik")
